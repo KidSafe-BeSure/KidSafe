@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">KidSafe</string>
+    <string name="gcm_send_message">Connected to server. you will now receive notifications as to
+        your kid\'s safety.</string>
+    <string name="registering_message">Connecting...</string>
+    <string name="token_error_message">An error occurred while connecting to the server. Please try
+        running the app again.</string>
+    <string name="slogan">KidSafe. Be sure.</string>
+    <string name="title_activity_scrolling_alerts_view">View Alerts</string>
+    <string name="notification_title">Bully Alert!</string>
+    <string name="bullied_child">Your child is being bullied!</string>
+    <string name="bullying_child">Your child is being a bully!</string>
+    <string name="more_button">more</string>
+    <string name="received_msg_with">Your child received a message containing</string>
+    <string name="sent_msg_with">Your child sent a message containing</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_add_word">Add Word</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_add_word">AddWord</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="word_or_phrase_input">Please type the word or phrase you would like to track</string>
+    <string name="action_settings">Settings</string>
+</resources>
